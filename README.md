@@ -1,0 +1,2 @@
+# fastapi
+Basic fastapi application
